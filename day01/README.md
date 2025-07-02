@@ -2,7 +2,7 @@
 - Jetson Orin AGX (SM87)
 
 ## Compile Option
-- nvcc -arch=sm_87 day1.cu -o day1
+- nvcc -arch=sm_87 day01.cu -o day01
 
 ## Mistakes I made
 - kernel launching size should not be <<<1, 1>>>. because I want to add vector values
