@@ -9,6 +9,7 @@ Instructions: https://github.com/hkproj/100-days-of-cuda
 - [Day 02 - Grayscale Kernel](./day02)
 - [Day 03 - Image Blur](./day03)
 - [Day 04 - Matmul](./day04)
+- [Day 05 - Silu_and_mul](./day05)
 
 ### References
 Reference repo: 
